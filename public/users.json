@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "username": "user123",
+      "added_date": "Mon Nov 15 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "john_doe",
+      "added_date": "Thu Sep 28 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "username": "alice_smith",
+      "added_date": "Tue Dec 05 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "username": "user456",
+      "added_date": "Sun Aug 20 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "username": "jane_doe",
+      "added_date": "Fri Feb 01 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "username": "bob_jones",
+      "added_date": "Sun Jan 28 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "username": "user789",
+      "added_date": "Tue Oct 10 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "inactive"
+    },
+    {
+      "id": 8,
+      "username": "charlie_brown",
+      "added_date": "Tue Dec 18 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "username": "user101",
+      "added_date": "Sat Jan 05 2024 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "username": "susan_smith",
+      "added_date": "Sat Sep 01 2023 00:00:00 GMT+0600 (Bangladesh Standard Time)",
+      "status": "inactive"
+    }
+  ]
+  
